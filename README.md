@@ -16,7 +16,7 @@ There is no reason why you cannot use this list to find an internship! Check the
 
 This question will inevitably come up. I have not filtered this list to identify remote positions. It is best to check with the company yourself and see if they are open to remote. You never know, they might accept remote but be aware it is rare to get junior remote roles. It is easier to mentor if you are physically in the office and you get the full benefit of a mentoring program.
 
-Edit: A "remote-friendly" column has been added (thanks @watadarkstar for doing this). This is blank for now as I don't have the time to check, but if you know a company is remote friendly, send me a message and I'll update the list. 
+Edit: A "remote-friendly" column has been added (thanks @watadarkstar for doing this). This is blank for now as I don't have the time to check, but if you know a company is remote friendly, send me a message and I'll update the list.
 
 ## Word of Advice
 
@@ -34,7 +34,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Agira Technologies         | https://www.agiratech.com/                            | @agiratech               | India, USA                                                                             |
 | AirCall                    | https://aircall.io/                                   | @aircall                 | USA, France                                                                            |
 | Andela                     | https://andela.com/                                   | @Andela                  | USA, Lagos, Nairobi, Kampala, Kigali                                                   |
-| AWS re:Start               | https://aws-restart.com/                              | n/a                      | UK 
+| AWS re:Start               | https://aws-restart.com/                              | n/a                      | UK
 | Asana | https://asana.com/ | @asana | USA, Canada
 | Baringa                    | https://www.baringa.com/en/                           | @Baringa                 | UK                                                                                     |
 | BD Medical                 | https://www.bd.com/en-us                              | @BDandCo                 | USA (Salt Lake City)                                                                   |
@@ -56,6 +56,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | CBRE Build                 | https://www.cbrebuild.com/                            | @cbrebuild_nyc           | USA, UK, India                                                                         |
 | Choozle                    | https://choozle.com/                                  | @choozle                 | USA                                                                                    |
 | Citi                       | https://www.citigroup.com/citi/                       | @Citi                    | Worldwide                                                                              |
+| Coinbase                   | https://www.coinbase.com/careers                      | @coinbase                | USA                                                                                    | yes              |
 | Comply365                  | https://www.comply365.com                             | @Comply365               | USA                                                                                    |
 | Condor Labs                | https://condorlabs.io/                                | @condorlabs_io           | Cartagena, Medellín                                                                    |
 | Crownstone                 | https://crownstone.rocks/                             | @CrownstoneRocks         | Netherlands                                                                            |
@@ -76,7 +77,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Everi                      | https://www.everi.com/                                | @everi_inc               | USA, Canada                                                                            |
 | eWorker                    | http://www.eworker.co/                                | @eworker_co              | Lagos, UK                                                                              |
 | Expedia Group              | https://www.expediagroup.com/                         | @ExpediaGroup            | Worldwide                                                                              |
-| EY                         | https://www.ey.com/                                   | @EYnews                  | UK           
+| EY                         | https://www.ey.com/                                   | @EYnews                  | UK
 | Formidable Labs | https://formidable.com/ | @formidablelabs | USA | Yes
 | Founders of the Future     | https://foundersofthefuture.co/                       | @founders_future         | UK  |
 | Glitch                     | https://glitch.com/                                   | @glitch                  | USA                                                                                    |
